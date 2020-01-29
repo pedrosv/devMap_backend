@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -12,5 +12,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": "https://github.com/pedrosv/devMap_backend.git",
+  "author": "pedrosv <pedrosv6@gmail.com>"
 }
